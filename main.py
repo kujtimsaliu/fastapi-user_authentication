@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 from jose import jwt, JWTError
 from passlib.context import CryptContext
 
+#not so secret ;o
 SECRET_KEY = "ff04b5be257f8261196abcb39a4856149a3880f324583e55a8c49e1d2f6f485b"
 ALGORITH = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
