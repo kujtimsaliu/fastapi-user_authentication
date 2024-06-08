@@ -14,6 +14,7 @@ db = {
         "username": "tim",
         "full_name": "Kujtim saliu",
         "email": "kujtimslaiu@shortcut.no",
+        #for testing purpose
         "hashed_password": "$2b$12$U.q9aWVHKepC9sC1cOttQeAb5erNxmz/uBT8JPc8PgGABpQNWnueW",
         "disabled": False
     }
